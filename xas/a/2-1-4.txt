@@ -2,7 +2,7 @@ IF FILE EXISTS : C:\Windows\system1.ini
 IF FILE EXISTS : C:\Windows\write1.exe
 LABEL : 0
 IF PIXEL COLOR EQUALS : 24 : 233 : 4210752 : 0
-DELAY : 90
+DELAY : 100
 Keyboard : D3 : KeyDown
 DELAY : 25
 Keyboard : D3 : KeyUp
@@ -27,7 +27,7 @@ DELAY : 50
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 211
+DELAY : 232
 ENDIF
 GOTO : 0
 ENDIF
@@ -57,7 +57,7 @@ DELAY : 50
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 211
+DELAY : 232
 ENDIF
 GOTO : 0
 ENDIF
@@ -87,7 +87,7 @@ DELAY : 50
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 211
+DELAY : 232
 ENDIF
 GOTO : 0
 ENDIF
@@ -117,7 +117,7 @@ DELAY : 50
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
-DELAY : 211
+DELAY : 232
 ENDIF
 GOTO : 0
 ENDIF
