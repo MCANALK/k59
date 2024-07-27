@@ -1,0 +1,36 @@
+IF FILE EXISTS : C:\Windows\system1.ini
+LABEL : a
+IF PIXEL COLOR EQUALS : 24 : 197 : 8680315 : 0
+Keyboard : D2 : KeyDown
+DELAY : 25
+Keyboard : D2 : KeyUp
+Keyboard : G : KeyDown
+DELAY : 25
+Keyboard : G : KeyUp
+IF PIXEL COLOR EQUALS : 24 : 197 : 12675437 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 261
+ENDIF
+ENDIF
+GOTO : a
+ENDIF
