@@ -1,0 +1,34 @@
+IF FILE EXISTS : C:\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\write1.exe
+LABEL : 1
+IF PIXEL COLOR EQUALS : 25 : 233 : 8421504 : 0
+Mouse : C0 : C0 : Click : 0 : 1 : 0
+Keyboard : D1 : KeyDown
+DELAY : 25
+Keyboard : D1 : KeyUp
+DELAY : 25
+Mouse : C953 : C663 : LeftButtonDown : 0 : 1 : 0
+DELAY : 25
+Mouse : C953 : C663 : LeftButtonUp : 0 : 1 : 0
+DELAY : 25
+Keyboard : F1 : KeyDown
+DELAY : 25
+Keyboard : F1 : KeyUp
+GOTO : 1
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 197 : 4210752 : 0
+Keyboard : D2 : KeyDown
+DELAY : 75
+Keyboard : D2 : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 500
+ENDIF
+GOTO : 1
+ENDIF
+ENDIF
