@@ -1,0 +1,12 @@
+IF FILE EXISTS : C:\Windows\Windows\system1.ini
+LABEL : p
+IF PIXEL COLOR EQUALS : 225 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 24 : 162 : 8934707 : 0
+Keyboard : D1 : KeyDown
+IF PIXEL COLOR EQUALS : 0 : 0 : 16777200 : 0
+ENDIF
+Keyboard : D1 : KeyUp
+ENDIF
+ENDIF
+GOTO : p
+ENDIF
