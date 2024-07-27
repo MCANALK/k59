@@ -1,394 +1,81 @@
-IF FILE EXISTS : C:\Windows\system1.ini
-IF FILE EXISTS : C:\Windows\write1.exe
-LABEL : 0
-IF PIXEL COLOR EQUALS : 25 : 406 : 2097 : 0
-IF PIXEL COLOR EQUALS : 166 : 49 : 0 : 0
-IF PIXEL COLOR EQUALS : 165 : 65 : 330330 : 0
+IF FILE EXISTS : C:\Windows\Windows\system1.ini
+LABEL : m
+IF PIXEL COLOR EQUALS : 24 : 413 : 530762 : 0
+IF PIXEL COLOR EQUALS : 200 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 100 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 166 : 49 : 0 : 0
-IF PIXEL COLOR EQUALS : 165 : 56 : 158 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 190 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 85 : 56 : 158 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 190 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 85 : 65 : 330329 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
+GOTO : m
 ENDIF
 ENDIF
 IF PIXEL COLOR EQUALS : 215 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 89 : 65 : 330329 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 215 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 89 : 56 : 158 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 235 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 48 : 65 : 330329 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 235 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 48 : 56 : 157 : 0
-Keyboard : D7 : KeyDown
-DELAY : 25
-Keyboard : D7 : KeyUp
-Keyboard : D8 : KeyDown
-DELAY : 25
-Keyboard : D8 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
-LABEL : 1
-IF PIXEL COLOR EQUALS : 18 : 261 : 2097 : 0
 IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
+GOTO : m
 ENDIF
-GOTO : 1
 ENDIF
-IF PIXEL COLOR EQUALS : 18 : 261 : 2097 : 0
-IF PIXEL COLOR EQUALS : 75 : 65 : 330329 : 0
+IF PIXEL COLOR EQUALS : 230 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 60 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : m
+ENDIF
+ENDIF
+LABEL : pm
+IF PIXEL COLOR EQUALS : 24 : 233 : 530762 : 0
+IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
 Keyboard : D8 : KeyUp
 Keyboard : D7 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 25
+DELAY : 24
 Keyboard : D8 : KeyUp
+GOTO : pm
 ENDIF
-GOTO : 1
 ENDIF
 ENDIF
-GOTO : 0
-ENDIF
+GOTO : m
 ENDIF
