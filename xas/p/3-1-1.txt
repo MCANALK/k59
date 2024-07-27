@@ -1,1 +1,108 @@
-
+IF FILE EXISTS : C:\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\write1.exe
+LABEL : 0
+IF PIXEL COLOR EQUALS : 24 : 233 : 4210752 : 0
+DELAY : 75
+Keyboard : D3 : KeyDown
+DELAY : 40
+Keyboard : D3 : KeyUp
+DELAY : 40
+IF PIXEL COLOR EQUALS : 24 : 233 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 90
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 269 : 4210752 : 0
+DELAY : 45
+Keyboard : D4 : KeyDown
+DELAY : 40
+Keyboard : D4 : KeyUp
+DELAY : 40
+IF PIXEL COLOR EQUALS : 24 : 269 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 90
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 305 : 4210752 : 0
+DELAY : 43
+Keyboard : D5 : KeyDown
+DELAY : 40
+Keyboard : D5 : KeyUp
+DELAY : 40
+IF PIXEL COLOR EQUALS : 24 : 305 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 90
+ENDIF
+GOTO : 0
+ENDIF
+IF PIXEL COLOR EQUALS : 24 : 341 : 4210752 : 0
+Keyboard : D6 : KeyDown
+DELAY : 40
+Keyboard : D6 : KeyUp
+DELAY : 40
+IF PIXEL COLOR EQUALS : 24 : 341 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 75
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+DELAY : 90
+ENDIF
+ENDIF
+GOTO : 0
+ENDIF
+ENDIF
