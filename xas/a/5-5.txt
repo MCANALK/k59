@@ -1,1 +1,76 @@
-
+IF FILE EXISTS : C:\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\write1.exe
+LABEL : 0
+IF PIXEL COLOR EQUALS : 18 : 403 : 530770 : 0
+IF PIXEL COLOR EQUALS : 224 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 85 : 57 : 185 : 0
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+GOTO : 0
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 190 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 64 : 57 : 185 : 0
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+DELAY : 35
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+DELAY : 35
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+DELAY : 35
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+GOTO : 0
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 210 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 50 : 57 : 185 : 0
+Keyboard : D7 : KeyDown
+DELAY : 35
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+GOTO : 0
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 233 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 40 : 57 : 185 : 0
+Keyboard : D8 : KeyDown
+DELAY : 35
+Keyboard : D8 : KeyUp
+GOTO : 0
+ENDIF
+ENDIF
+ENDIF
+GOTO : 0
+ENDIF
+GOTO : 0
