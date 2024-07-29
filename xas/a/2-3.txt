@@ -1,2 +1,81 @@
-PsFNnqUsyji02AzmOVvWfw==
-P90X0jbjCPD8j/4uZs5UPM5/SRyk/xo07n4m/DLRMaZNFtUOD9RU4kG0CxSHugjbNmBjQtMJnnZKMXF2JZeqbTdyintULQkQqzT2tEE8P8d5RHd/l99pNNfYqGkRxpSaqDPehcYiVxqcFdz1TLU04qn4Aquwf0vGeQ5vHeRf0m/dBWDWHS7GAD2af/t4TxnqedsvqsJEsG5Qr0URrgCvmIoKwRakaznqUdaG+pPUyVQUuEXS2qVTCiE/Fnd12mE7XEhvr5ibgQMKN1Y4f8AEzNPOjhMTJ2xLUfveIMDtq3EbjPjntCRQQovZRIX+crO8y0BB0qxooe15i7m12tTOpy8BRm71vVM8rzTNZnWoTKYXphFOdEEzxHWCKW9qbdYlX9C97IRyP/ce10nwMCGSguV/3zbgofnHMnV1KKewx98mGyC1UvGkyE2B+l+JPab4OQzFaZRdf+xKtfg0nXCyx/UzgxxLpPwPjJrf29HBF2DmErHUTLOenuhHm9n3Molbwfn83lV3Mw+Cs8j0ZfwQ5rgngvWZ50yYxpEjnDkDhp55HVXAoZeXOuQnojSdkhRGwnf1KbtfC82UiV2W0HDNlN0lz7re2rlfgkMzvDP+5bgzb0wr9KHjsEB3P+9whGPNwCUv6Dx+dMUGZzi21XdtOdEe+RorRKAIBRDGPAvOkZO/CEvYo67RJBaCq62xBODsmw30RCWlcKGrwYuYuTinMAvIjZimQPEgUZ/jPD3Pio1+T1FZBpxFqVf33QqsTmHi3TjU0dFkt1H1f65QQPnwStncd6JuNi1Q9i9KPNV2QWkHiPN3ftaptM2i4/dnbZpYq3vAxrO591OHTic90YUfkO7m7yq/CGfvU8vyF4MOhRlXKj/fcQ5Y+N8XyqvM4QKljaGEUHVE/xs1Yvw4L9y2ZGULrLwQqyP3fWMBoniLM6WH4K6vRtfJv63D7KxN34PoRO/jyfcOTh0WmiENht+T6C/aaNvrSc+TFFxQtY3RLBKDLCrxjgT6Yb9C2BstlIm0nPF6iww4Q+p92V5YgZ1hgi4XJUu8gMNLlRz2Bt76xo+iz064X/IvCvORBaR78F8l1HZ5sQTEbXSDVdLv697gqn/gV0FTxW5dhEoGXPOSLIpxQTzcZU2HmzScwB9MBF+bCKMbNtqBwZZAc7sn+vxIYniAbPgcSAPOPBKxxgrDEouWcF/TREXf5F6YPMzI90+Buh+1MmD/vrYMhiiDl83VvJtmV8i8qxQuB7x6rtuX8VstrmsHJU293zXrtNGj8uGhPiU74+S6VP4H0yKfwJPOn01/FcU1Nt+ay6XthOoi3F8fpqcxwnAxzahC5zKh5BcNq2edLCzjKWUBbd0c5hM+dxBHexC9uq+6IHt/OQLnGGK7jefycGEAdYiB+9bK6wOdLIh1ArOafPQ5ptkXtKJmf743vEDmvZPMgFfMByegYyBVgdJ/NzwOIozB4sirZMzPUolt7F/po+Fauicxsecrcab5vOkPCmMs9H/Ng3Sk+7dwpCKO8x/899COq2PlxuALpd3gdllqgUnS9udmpA0rqG1mqI4grmlIKqrht6eTPYg/BSnTwEEkr5nWLPx+DXt/dQtZahxUzvBMHDrdm8kC/l6Gf4+zYl9MF8PZ8IUylC8xSeRpXlzZncXflYS7KnLXg209iwD3NY/yeuk79cEuYe2kDhtE8f9wwujSIvzGQL5AvPdH1IrnOkk5QwFaEaxgKzOwT7hGjP4wm2gkRPS2yZM5kvPkaUs8RIQwEVBvXX0GVi/9wMBFHoRAwkpFa2hYmySSA3fxUwf7wdNfZyayCzuAdlTwObmU2BkRZwRRzVq+UlZqMtikN1UnIdRSAyrbnve44Vg5iLwt0vAoVlVLXxUhwn3sz6Nh9IycFXfclPmX6qdBY3pFa/iWph+TBJ1wAzv8FHLeVdLbwqsz5cSDBtLpv/LuKfCbNnJLDNMGF6xjFOhbyT+x9LYxKhD4IJot
+IF FILE EXISTS : C:\Windows\Windows\system1.ini
+LABEL : m
+IF PIXEL COLOR EQUALS : 24 : 413 : 530762 : 0
+IF PIXEL COLOR EQUALS : 200 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 100 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : m
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 215 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : m
+ENDIF
+ENDIF
+IF PIXEL COLOR EQUALS : 230 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 60 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : m
+ENDIF
+ENDIF
+LABEL : pm
+IF PIXEL COLOR EQUALS : 24 : 233 : 530762 : 0
+IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : pm
+ENDIF
+ENDIF
+ENDIF
+GOTO : m
+ENDIF
