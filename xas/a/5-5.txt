@@ -1,4 +1,4 @@
-IF FILE EXISTS : C:\Windows\Windows\system1.ini
+IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : m
 IF PIXEL COLOR EQUALS : 24 : 413 : 530762 : 0
 IF PIXEL COLOR EQUALS : 164 : 50 : 0 : 0
