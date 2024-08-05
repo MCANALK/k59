@@ -1,23 +1,23 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 IF FILE EXISTS : C:\Windows\write1.exe
 LABEL : 0
-IF PIXEL COLOR EQUALS : 24 : 270 : 8069409 : 0
+IF PIXEL COLOR EQUALS : 24 : 342 : 8069409 : 0
 Keyboard : W : KeyDown
 DELAY : 10
 Keyboard : R : KeyDown
 DELAY : 24
 Keyboard : R : KeyUp
-Keyboard : D3 : KeyDown
-DELAY : 24
-Keyboard : D3 : KeyUp
-Keyboard : W : KeyUp
 Keyboard : D5 : KeyDown
-DELAY : 75
+DELAY : 24
 Keyboard : D5 : KeyUp
-DELAY : 715
-Keyboard : D6 : KeyDown
+Keyboard : W : KeyUp
+Keyboard : D3 : KeyDown
 DELAY : 75
-Keyboard : D6 : KeyUp
+Keyboard : D3 : KeyUp
+DELAY : 715
+Keyboard : D4 : KeyDown
+DELAY : 75
+Keyboard : D4 : KeyUp
 DELAY : 75
 Keyboard : F1 : KeyDown
 DELAY : 75
@@ -55,17 +55,17 @@ Keyboard : D5 : KeyDown
 DELAY : 75
 Keyboard : D5 : KeyUp
 DELAY : 75
-Keyboard : F5 : KeyDown
+Keyboard : F6 : KeyDown
 DELAY : 75
-Keyboard : F5 : KeyUp
+Keyboard : F6 : KeyUp
 DELAY : 644
-Keyboard : D3 : KeyDown
+Keyboard : D5 : KeyDown
 DELAY : 24
-Keyboard : D3 : KeyUp
+Keyboard : D5 : KeyUp
 Keyboard : W : KeyUp
-Keyboard : D4 : KeyDown
+Keyboard : D6 : KeyDown
 DELAY : 75
-Keyboard : D4 : KeyUp
+Keyboard : D6 : KeyUp
 DELAY : 75
 Keyboard : F1 : KeyDown
 DELAY : 75
