@@ -1,9 +1,17 @@
 LABEL : 0
+Keyboard : F1 : KeyDown
+DELAY : 25
+Keyboard : F1 : KeyDown
+DELAY : 25
 Keyboard : W : KeyDown
 DELAY : 10
 Keyboard : R : KeyDown
 DELAY : 25
 Keyboard : R : KeyUp
+Keyboard : D5 : KeyDown
+DELAY : 25
+Keyboard : D5 : KeyUp
+DELAY : 794
 Keyboard : D3 : KeyDown
 DELAY : 25
 Keyboard : D3 : KeyUp
@@ -11,10 +19,6 @@ DELAY : 794
 Keyboard : D4 : KeyDown
 DELAY : 25
 Keyboard : D4 : KeyUp
-DELAY : 794
-Keyboard : D5 : KeyDown
-DELAY : 25
-Keyboard : D5 : KeyUp
 DELAY : 794
 Keyboard : D6 : KeyDown
 DELAY : 25
