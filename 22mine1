@@ -3,6 +3,7 @@ Keyboard : F1 : KeyDown
 DELAY : 25
 Keyboard : F1 : KeyDown
 DELAY : 25
+IF PIXEL COLOR EQUALS : 24 : 233 : 4210752 : 0
 Keyboard : W : KeyDown
 DELAY : 10
 Keyboard : R : KeyDown
@@ -25,4 +26,5 @@ DELAY : 25
 Keyboard : D6 : KeyUp
 DELAY : 794
 Keyboard : W : KeyUp
+ENDIF
 GOTO : 0
