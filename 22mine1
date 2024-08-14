@@ -8,7 +8,7 @@ Keyboard : R : KeyUp
 Keyboard : D5 : KeyDown
 DELAY : 25
 Keyboard : D5 : KeyUp
-DELAY : 794
+DELAY : 810
 Keyboard : D3 : KeyDown
 DELAY : 25
 Keyboard : D3 : KeyUp
