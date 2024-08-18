@@ -26,7 +26,7 @@ DELAY : 75
 Keyboard : R : KeyDown
 DELAY : 75
 Keyboard : R : KeyUp
-DELAY : 84
+DELAY : 80
 ENDIF
 ENDIF
 GOTO : 0
