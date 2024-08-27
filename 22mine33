@@ -4,35 +4,35 @@ IF PIXEL COLOR EQUALS : 24 : 413 : 530762 : 0
 IF PIXEL COLOR EQUALS : 164 : 50 : 0 : 0
 IF PIXEL COLOR EQUALS : 86 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
 GOTO : 0
 ENDIF
@@ -40,19 +40,19 @@ ENDIF
 IF PIXEL COLOR EQUALS : 189 : 50 : 0 : 0
 IF PIXEL COLOR EQUALS : 70 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
 GOTO : 0
 ENDIF
@@ -60,11 +60,11 @@ ENDIF
 IF PIXEL COLOR EQUALS : 209 : 50 : 0 : 0
 IF PIXEL COLOR EQUALS : 60 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D7 : KeyUp
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
 GOTO : 0
 ENDIF
@@ -72,9 +72,9 @@ ENDIF
 IF PIXEL COLOR EQUALS : 234 : 50 : 0 : 0
 IF PIXEL COLOR EQUALS : 50 : 56 : 157 : 0
 Keyboard : D8 : KeyDown
-DELAY : 30
+DELAY : 60
 Keyboard : D8 : KeyUp
-DELAY : 30
+DELAY : 60
 ENDIF
 ENDIF
 ENDIF
