@@ -34,115 +34,115 @@ DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
-DELAY : 789
+DELAY : 790
 Keyboard : D2 : KeyDown
 DELAY : 50
 Keyboard : D2 : KeyUp
