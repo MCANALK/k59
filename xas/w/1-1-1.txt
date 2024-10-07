@@ -5,10 +5,24 @@ IF PIXEL COLOR EQUALS : 24 : 197 : 4210752 : 0
 Keyboard : D2 : KeyDown
 DELAY : 25
 Keyboard : D2 : KeyUp
+DELAY : 10
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
+DELAY : 10
 IF PIXEL COLOR EQUALS : 24 : 197 : 10703442 : 0
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
 Keyboard : R : KeyDown
 DELAY : 75
 Keyboard : R : KeyUp
