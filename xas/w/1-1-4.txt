@@ -35,6 +35,12 @@ Keyboard : R : KeyUp
 Keyboard : G : KeyDown
 DELAY : 75
 Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 75
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 75
+Keyboard : G : KeyUp
 ENDIF
 ENDIF
 GOTO : 0
