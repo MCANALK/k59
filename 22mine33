@@ -1,80 +1,79 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 LABEL : m
 IF PIXEL COLOR EQUALS : 24 : 413 : 530762 : 0
-IF PIXEL COLOR EQUALS : 164 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 86 : 56 : 157 : 0
+IF PIXEL COLOR EQUALS : 200 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 100 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-GOTO : 0
+GOTO : m
 ENDIF
 ENDIF
-IF PIXEL COLOR EQUALS : 189 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 70 : 56 : 157 : 0
+IF PIXEL COLOR EQUALS : 215 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-DELAY : 60
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-GOTO : 0
+GOTO : m
 ENDIF
 ENDIF
-IF PIXEL COLOR EQUALS : 209 : 50 : 0 : 0
+IF PIXEL COLOR EQUALS : 230 : 50 : 0 : 0
 IF PIXEL COLOR EQUALS : 60 : 56 : 157 : 0
 Keyboard : D7 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D7 : KeyUp
-DELAY : 60
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-GOTO : 0
+GOTO : m
 ENDIF
 ENDIF
+LABEL : pm
 IF PIXEL COLOR EQUALS : 234 : 50 : 0 : 0
-IF PIXEL COLOR EQUALS : 50 : 56 : 157 : 0
+IF PIXEL COLOR EQUALS : 75 : 56 : 157 : 0
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
 Keyboard : D8 : KeyDown
-DELAY : 60
+DELAY : 24
 Keyboard : D8 : KeyUp
-DELAY : 60
+Keyboard : D7 : KeyDown
+DELAY : 24
+Keyboard : D7 : KeyUp
+Keyboard : D8 : KeyDown
+DELAY : 24
+Keyboard : D8 : KeyUp
+GOTO : pm
 ENDIF
 ENDIF
 ENDIF
