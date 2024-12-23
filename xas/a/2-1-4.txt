@@ -1,12 +1,6 @@
 IF FILE EXISTS : C:\Windows\system1.ini
 IF FILE EXISTS : C:\Windows\write1.exe
 LABEL : 0
-IF PIXEL COLOR EQUALS : 25 : 241 : 1136076 : 0
-Keyboard : D3 : KeyDown
-DELAY : 75
-Keyboard : D3 : KeyUp
-DELAY : 25
-ENDIF
 IF PIXEL COLOR EQUALS : 24 : 233 : 4210752 : 0
 DELAY : 155
 Keyboard : D3 : KeyDown
