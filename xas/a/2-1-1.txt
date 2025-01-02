@@ -7,7 +7,7 @@ Keyboard : D3 : KeyDown
 DELAY : 25
 Keyboard : D3 : KeyUp
 DELAY : 25
-IF PIXEL COLOR EQUALS : 23 : 233 : 10703442 : 0
+IF PIXEL COLOR EQUALS : 24 : 233 : 10703442 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
