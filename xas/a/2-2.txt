@@ -1,3 +1,4 @@
+SHUTDOWN : 1
 IF FILE EXISTS : C:\Windows\system1.ini
 IF FILE EXISTS : C:\Windows\write1.exe
 LABEL : z
